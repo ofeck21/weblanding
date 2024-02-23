@@ -5650,7 +5650,7 @@
 
     @media only screen and (min-width: 841px) {
         body {
-            background-image: url("./img/bg-footer.jpg");
+            background-image: url("/landing-page/img/bg-footer.jpg");
         }
     }
 
@@ -5667,7 +5667,7 @@
         background-repeat: no-repeat;
         -webkit-background-size: contain;
         background-size: contain;
-        background-image: url("./img/bg-404.png");
+        background-image: url("/landing-page/img/bg-404.png");
     }
 
     .body-line {
@@ -5680,7 +5680,7 @@
 
     .flowmap-deformation-wrapper,
     .edit-post-visual-editor .editor-styles-wrapper {
-        background-image: url("./img/bg-1.jpg");
+        background-image: url("/landing-page/img/bg-1.jpg");
         background-position: top center;
         background-repeat: no-repeat;
         -webkit-background-size: cover;
