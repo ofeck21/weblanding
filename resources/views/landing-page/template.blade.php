@@ -281,69 +281,39 @@
             <div class="content">
                 <div class="content-inner">
                     <div data-elementor-type="wp-page" data-elementor-id="6027" class="elementor elementor-6027">
+
 						<section class="elementor-section elementor-top-section elementor-element elementor-element-04fc850 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="04fc850" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1440px; left: -50px;">
-					    <div class="elementor-container elementor-column-gap-no">
-					        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9f0ef64" data-id="9f0ef64" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-0d09a91 elementor-widget elementor-widget-agencium_content_slider" data-id="0d09a91" data-element_type="widget" data-widget_type="agencium_content_slider.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="agencium-content-slider-widget">
-                                                <div class="content-slider-wrapper">
-                                                    <div class="content-slider-container">
-                                                        <div class="content-slider owl-carousel owl-theme owl-loaded owl-drag" data-slider-options="{&quot;items&quot;:1,&quot;nav&quot;:false,&quot;dots&quot;:true,&quot;dotsContainer&quot;:&quot;.slider-dots&quot;,&quot;autoplayHoverPause&quot;:true,&quot;autoplay&quot;:false,&quot;autoplaySpeed&quot;:5000,&quot;autoplayTimeout&quot;:5000,&quot;loop&quot;:true,&quot;dragEndSpeed&quot;:1200,&quot;navSpeed&quot;:1200,&quot;dotsSpeed&quot;:1200,&quot;rtl&quot;:false,&quot;pullDrag&quot;:false,&quot;freeDrag&quot;:false,&quot;callbacks&quot;:false}">
-                                                            <div class="owl-stage-outer">
-                                                                <div class="owl-stage" style="transform: translate3d(-2880px, 0px, 0px); transition: all 1.2s ease 0s; width: 8640px;">
-                                                                    <div class="owl-item cloned" style="width: 1440px;">
-                                                                        <div class="content-item slider-item elementor-repeater-item-3dcbe90 content-position-flex-start content-view-row">
-                                                                            <div class="elementor-section elementor-section-boxed">
-                                                                                <div class="elementor-container elementor-column-gap-extended">
-                                                                                    <div class="elementor-row">
-                                                                                        <div class="elementor-column elementor-col-100">
-                                                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                                                <div class="elementor-widget-wrap">
-                                                                                                    <div class="elementor-element">
-                                                                                                        <div class="slide-content">
-                                                                                                            <div class="slide-content-column">
-                                                                                                                <h1 class="content-slider-item-heading agencium-content-wrapper-1">Web <em>Instan</em></h1>
-                                                                                                                <h2 class="content-slider-item-additional-heading agencium-content-wrapper-2">Dalam Hitungan <em>Jam</em></h2>
-                                                                                                                <div class="content-slider-item-content agencium-content-wrapper-3">
-                                                                                                                    <div class="content-slider-item-text">
-                                                                                                                        <p>Wujud website impian anda. Dapat website profesional dengan desain sesuai kebutuhan anda dalam hitungan Jam.</p>
-                                                                                                                    </div>
-                                                                                                                    <div class="content-slider-item-buttons">
-                                                                                                                        <a class="agencium-alter-button" href="#" target="_blank">Dapatkan Sekarang<svg viewBox="0 0 13 20"><polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5"></polyline></svg></a>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div class="owl-item cloned" style="width: 1440px;">
-                                                                        <div class="content-item slider-item elementor-repeater-item-deda5ba content-position-flex-start content-view-column">
-                                                                            <div class="elementor-section elementor-section-boxed">
-                                                                                <div class="elementor-container elementor-column-gap-extended">
-                                                                                    <div class="elementor-row">
-                                                                                        <div class="elementor-column elementor-col-100">
-                                                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                                                <div class="elementor-widget-wrap">
-                                                                                                    <div class="elementor-element">
-                                                                                                        <div class="slide-content">
-                                                                                                            <div class="slide-content-column">
-                                                                                                                <h1 class="content-slider-item-heading agencium-content-wrapper-1">Real <em>solution</em> for   your <em>business</em>.</h1>
-                                                                                                                <div class="content-slider-item-content agencium-content-wrapper-2">
-                                                                                                                    <div class="content-slider-item-text">
-                                                                                                                        <p>Mummichog paradise fish! Triggerfish bango guppy opah sunfish bluntnose knifefish upside down catfish cobia spookfish convict.</p>
-                                                                                                                    </div>
-                                                                                                                    <div class="content-slider-item-buttons">
-                                                                                                                        <a class="agencium-alter-button" href="https://demo.artureanec.com/themes/agencium/services-from-experienced-agency/" target="_blank">Explore more<svg viewBox="0 0 13 20"><polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5"></polyline></svg></a>
+                            <div class="elementor-container elementor-column-gap-no">
+                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9f0ef64" data-id="9f0ef64" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-0d09a91 elementor-widget elementor-widget-agencium_content_slider" data-id="0d09a91" data-element_type="widget" data-widget_type="agencium_content_slider.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="agencium-content-slider-widget">
+                                                    <div class="content-slider-wrapper">
+                                                        <div class="content-slider-container">
+                                                            <div class="content-slider owl-carousel owl-theme owl-loaded owl-drag" data-slider-options="{&quot;items&quot;:1,&quot;nav&quot;:false,&quot;dots&quot;:true,&quot;dotsContainer&quot;:&quot;.slider-dots&quot;,&quot;autoplayHoverPause&quot;:true,&quot;autoplay&quot;:false,&quot;autoplaySpeed&quot;:5000,&quot;autoplayTimeout&quot;:5000,&quot;loop&quot;:true,&quot;dragEndSpeed&quot;:1200,&quot;navSpeed&quot;:1200,&quot;dotsSpeed&quot;:1200,&quot;rtl&quot;:false,&quot;pullDrag&quot;:false,&quot;freeDrag&quot;:false,&quot;callbacks&quot;:false}">
+                                                                <div class="owl-stage-outer">
+                                                                    <div class="owl-stage" style="transform: translate3d(-2880px, 0px, 0px); transition: all 1.2s ease 0s; width: 8640px;">
+                                                                        <div class="owl-item cloned" style="width: 1440px;">
+                                                                            <div class="content-item slider-item elementor-repeater-item-3dcbe90 content-position-flex-start content-view-row">
+                                                                                <div class="elementor-section elementor-section-boxed">
+                                                                                    <div class="elementor-container elementor-column-gap-extended">
+                                                                                        <div class="elementor-row">
+                                                                                            <div class="elementor-column elementor-col-100">
+                                                                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                                                                    <div class="elementor-widget-wrap">
+                                                                                                        <div class="elementor-element">
+                                                                                                            <div class="slide-content">
+                                                                                                                <div class="slide-content-column">
+                                                                                                                    <h1 class="content-slider-item-heading agencium-content-wrapper-1">Web <em>Instan</em></h1>
+                                                                                                                    <h2 class="content-slider-item-additional-heading agencium-content-wrapper-2">Dalam Hitungan <em>Jam</em></h2>
+                                                                                                                    <div class="content-slider-item-content agencium-content-wrapper-3">
+                                                                                                                        <div class="content-slider-item-text">
+                                                                                                                            <p>Wujud website impian anda. Dapat website profesional dengan desain sesuai kebutuhan anda dalam hitungan Jam.</p>
+                                                                                                                        </div>
+                                                                                                                        <div class="content-slider-item-buttons">
+                                                                                                                            <a class="agencium-alter-button" href="#" target="_blank">Dapatkan Sekarang<svg viewBox="0 0 13 20"><polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5"></polyline></svg></a>
+                                                                                                                        </div>
                                                                                                                     </div>
                                                                                                                 </div>
                                                                                                             </div>
@@ -356,27 +326,26 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                    </div>
 
-                                                                    <div class="owl-item active" style="width: 1440px;">
-                                                                        <div class="content-item slider-item elementor-repeater-item-3dcbe90 content-position-flex-start content-view-row">
-                                                                            <div class="elementor-section elementor-section-boxed">
-                                                                                <div class="elementor-container elementor-column-gap-extended">
-                                                                                    <div class="elementor-row">
-                                                                                        <div class="elementor-column elementor-col-100">
-                                                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                                                <div class="elementor-widget-wrap">
-                                                                                                    <div class="elementor-element">
-                                                                                                        <div class="slide-content">
-                                                                                                            <div class="slide-content-column">
-                                                                                                                <h1 class="content-slider-item-heading agencium-content-wrapper-1">Web <em>Instan</em></h1>
-                                                                                                                <h2 class="content-slider-item-additional-heading agencium-content-wrapper-2">Dalam Hitungan <em>Jam</em></h2>
-                                                                                                                <div class="content-slider-item-content agencium-content-wrapper-3">
-                                                                                                                    <div class="content-slider-item-text">
-                                                                                                                        <p>Wujud website impian anda. Dapat website profesional dengan desain sesuai kebutuhan anda dalam hitungan Jam.</p>
-                                                                                                                    </div>
-                                                                                                                    <div class="content-slider-item-buttons">
-                                                                                                                        <a class="agencium-alter-button" href="#" target="_blank">Dapatkan Sekarang<svg viewBox="0 0 13 20"><polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5"></polyline></svg></a>
+                                                                        <div class="owl-item cloned" style="width: 1440px;">
+                                                                            <div class="content-item slider-item elementor-repeater-item-deda5ba content-position-flex-start content-view-column">
+                                                                                <div class="elementor-section elementor-section-boxed">
+                                                                                    <div class="elementor-container elementor-column-gap-extended">
+                                                                                        <div class="elementor-row">
+                                                                                            <div class="elementor-column elementor-col-100">
+                                                                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                                                                    <div class="elementor-widget-wrap">
+                                                                                                        <div class="elementor-element">
+                                                                                                            <div class="slide-content">
+                                                                                                                <div class="slide-content-column">
+                                                                                                                    <h1 class="content-slider-item-heading agencium-content-wrapper-1">Real <em>solution</em> for   your <em>business</em>.</h1>
+                                                                                                                    <div class="content-slider-item-content agencium-content-wrapper-2">
+                                                                                                                        <div class="content-slider-item-text">
+                                                                                                                            <p>Mummichog paradise fish! Triggerfish bango guppy opah sunfish bluntnose knifefish upside down catfish cobia spookfish convict.</p>
+                                                                                                                        </div>
+                                                                                                                        <div class="content-slider-item-buttons">
+                                                                                                                            <a class="agencium-alter-button" href="https://demo.artureanec.com/themes/agencium/services-from-experienced-agency/" target="_blank">Explore more<svg viewBox="0 0 13 20"><polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5"></polyline></svg></a>
+                                                                                                                        </div>
                                                                                                                     </div>
                                                                                                                 </div>
                                                                                                             </div>
@@ -389,26 +358,27 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                    </div>
 
-                                                                    <div class="owl-item" style="width: 1440px;">
-                                                                        <div class="content-item slider-item elementor-repeater-item-deda5ba content-position-flex-start content-view-column">
-                                                                            <div class="elementor-section elementor-section-boxed">
-                                                                                <div class="elementor-container elementor-column-gap-extended">
-                                                                                    <div class="elementor-row">
-                                                                                        <div class="elementor-column elementor-col-100">
-                                                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                                                <div class="elementor-widget-wrap">
-                                                                                                    <div class="elementor-element">
-                                                                                                        <div class="slide-content">
-                                                                                                            <div class="slide-content-column">
-                                                                                                                <h1 class="content-slider-item-heading agencium-content-wrapper-1">Real <em>solution</em> for   your <em>business</em>.</h1>
-                                                                                                                <div class="content-slider-item-content agencium-content-wrapper-2">
-                                                                                                                    <div class="content-slider-item-text">
-                                                                                                                        <p>Mummichog paradise fish! Triggerfish bango guppy opah sunfish bluntnose knifefish upside down catfish cobia spookfish convict.</p>
-                                                                                                                    </div>
-                                                                                                                    <div class="content-slider-item-buttons">
-                                                                                                                        <a class="agencium-alter-button" href="https://demo.artureanec.com/themes/agencium/services-from-experienced-agency/" target="_blank">Explore more<svg viewBox="0 0 13 20"><polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5"></polyline></svg></a>
+                                                                        <div class="owl-item active" style="width: 1440px;">
+                                                                            <div class="content-item slider-item elementor-repeater-item-3dcbe90 content-position-flex-start content-view-row">
+                                                                                <div class="elementor-section elementor-section-boxed">
+                                                                                    <div class="elementor-container elementor-column-gap-extended">
+                                                                                        <div class="elementor-row">
+                                                                                            <div class="elementor-column elementor-col-100">
+                                                                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                                                                    <div class="elementor-widget-wrap">
+                                                                                                        <div class="elementor-element">
+                                                                                                            <div class="slide-content">
+                                                                                                                <div class="slide-content-column">
+                                                                                                                    <h1 class="content-slider-item-heading agencium-content-wrapper-1">Web <em>Instan</em></h1>
+                                                                                                                    <h2 class="content-slider-item-additional-heading agencium-content-wrapper-2">Dalam Hitungan <em>Jam</em></h2>
+                                                                                                                    <div class="content-slider-item-content agencium-content-wrapper-3">
+                                                                                                                        <div class="content-slider-item-text">
+                                                                                                                            <p>Wujud website impian anda. Dapat website profesional dengan desain sesuai kebutuhan anda dalam hitungan Jam.</p>
+                                                                                                                        </div>
+                                                                                                                        <div class="content-slider-item-buttons">
+                                                                                                                            <a class="agencium-alter-button" href="#" target="_blank">Dapatkan Sekarang<svg viewBox="0 0 13 20"><polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5"></polyline></svg></a>
+                                                                                                                        </div>
                                                                                                                     </div>
                                                                                                                 </div>
                                                                                                             </div>
@@ -421,26 +391,26 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                    </div>
-                                                                    
-                                                                    <div class="owl-item cloned" style="width: 1440px;">
-                                                                        <div class="content-item slider-item elementor-repeater-item-3dcbe90 content-position-flex-start content-view-row">
-                                                                            <div class="elementor-section elementor-section-boxed">
-                                                                                <div class="elementor-container elementor-column-gap-extended">
-                                                                                    <div class="elementor-row">
-                                                                                        <div class="elementor-column elementor-col-100">
-                                                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                                                <div class="elementor-widget-wrap">
-                                                                                                    <div class="elementor-element">
-                                                                                                        <div class="slide-content">
-                                                                                                            <div class="slide-content-column">
-                                                                                                                <h1 class="content-slider-item-heading agencium-content-wrapper-1">Web <em>Instan</em></h1><h2 class="content-slider-item-additional-heading agencium-content-wrapper-2">Dalam Hitungan <em>Jam</em></h2>
-                                                                                                                <div class="content-slider-item-content agencium-content-wrapper-3">
-                                                                                                                    <div class="content-slider-item-text">
-                                                                                                                        <p>Wujud website impian anda. Dapat website profesional dengan desain sesuai kebutuhan anda dalam hitungan Jam.</p>
-                                                                                                                    </div>
-                                                                                                                    <div class="content-slider-item-buttons">
-                                                                                                                        <a class="agencium-alter-button" href="https://bikinweb.mrofik.com/#theme" target="_blank">Dapatkan Sekarang<svg viewBox="0 0 13 20"><polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5"></polyline></svg></a>
+
+                                                                        <div class="owl-item" style="width: 1440px;">
+                                                                            <div class="content-item slider-item elementor-repeater-item-deda5ba content-position-flex-start content-view-column">
+                                                                                <div class="elementor-section elementor-section-boxed">
+                                                                                    <div class="elementor-container elementor-column-gap-extended">
+                                                                                        <div class="elementor-row">
+                                                                                            <div class="elementor-column elementor-col-100">
+                                                                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                                                                    <div class="elementor-widget-wrap">
+                                                                                                        <div class="elementor-element">
+                                                                                                            <div class="slide-content">
+                                                                                                                <div class="slide-content-column">
+                                                                                                                    <h1 class="content-slider-item-heading agencium-content-wrapper-1">Real <em>solution</em> for   your <em>business</em>.</h1>
+                                                                                                                    <div class="content-slider-item-content agencium-content-wrapper-2">
+                                                                                                                        <div class="content-slider-item-text">
+                                                                                                                            <p>Mummichog paradise fish! Triggerfish bango guppy opah sunfish bluntnose knifefish upside down catfish cobia spookfish convict.</p>
+                                                                                                                        </div>
+                                                                                                                        <div class="content-slider-item-buttons">
+                                                                                                                            <a class="agencium-alter-button" href="https://demo.artureanec.com/themes/agencium/services-from-experienced-agency/" target="_blank">Explore more<svg viewBox="0 0 13 20"><polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5"></polyline></svg></a>
+                                                                                                                        </div>
                                                                                                                     </div>
                                                                                                                 </div>
                                                                                                             </div>
@@ -453,52 +423,136 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
+                                                                        
+                                                                        <div class="owl-item cloned" style="width: 1440px;">
+                                                                            <div class="content-item slider-item elementor-repeater-item-3dcbe90 content-position-flex-start content-view-row">
+                                                                                <div class="elementor-section elementor-section-boxed">
+                                                                                    <div class="elementor-container elementor-column-gap-extended">
+                                                                                        <div class="elementor-row">
+                                                                                            <div class="elementor-column elementor-col-100">
+                                                                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                                                                    <div class="elementor-widget-wrap">
+                                                                                                        <div class="elementor-element">
+                                                                                                            <div class="slide-content">
+                                                                                                                <div class="slide-content-column">
+                                                                                                                    <h1 class="content-slider-item-heading agencium-content-wrapper-1">Web <em>Instan</em></h1><h2 class="content-slider-item-additional-heading agencium-content-wrapper-2">Dalam Hitungan <em>Jam</em></h2>
+                                                                                                                    <div class="content-slider-item-content agencium-content-wrapper-3">
+                                                                                                                        <div class="content-slider-item-text">
+                                                                                                                            <p>Wujud website impian anda. Dapat website profesional dengan desain sesuai kebutuhan anda dalam hitungan Jam.</p>
+                                                                                                                        </div>
+                                                                                                                        <div class="content-slider-item-buttons">
+                                                                                                                            <a class="agencium-alter-button" href="https://bikinweb.mrofik.com/#theme" target="_blank">Dapatkan Sekarang<svg viewBox="0 0 13 20"><polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5"></polyline></svg></a>
+                                                                                                                        </div>
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        
+                                                                        <div class="owl-item cloned" style="width: 1440px;">
+                                                                            <div class="content-item slider-item elementor-repeater-item-deda5ba content-position-flex-start content-view-column">
+                                                                                <div class="elementor-section elementor-section-boxed">
+                                                                                    <div class="elementor-container elementor-column-gap-extended">
+                                                                                        <div class="elementor-row">
+                                                                                            <div class="elementor-column elementor-col-100">
+                                                                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                                                                    <div class="elementor-widget-wrap">
+                                                                                                        <div class="elementor-element">
+                                                                                                            <div class="slide-content">
+                                                                                                                <div class="slide-content-column">
+                                                                                                                    <h1 class="content-slider-item-heading agencium-content-wrapper-1">Real <em>solution</em> for   your <em>business</em>.</h1>
+                                                                                                                    <div class="content-slider-item-content agencium-content-wrapper-2">
+                                                                                                                        <div class="content-slider-item-text">
+                                                                                                                            <p>Mummichog paradise fish! Triggerfish bango guppy opah sunfish bluntnose knifefish upside down catfish cobia spookfish convict.</p>
+                                                                                                                        </div>
+                                                                                                                        <div class="content-slider-item-buttons">
+                                                                                                                            <a class="agencium-alter-button" href="https://demo.artureanec.com/themes/agencium/services-from-experienced-agency/" target="_blank">Explore more<svg viewBox="0 0 13 20"><polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5"></polyline></svg></a>
+                                                                                                                        </div>
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
                                                                     </div>
-                                                                    
-                                                                    <div class="owl-item cloned" style="width: 1440px;">
-                                                                        <div class="content-item slider-item elementor-repeater-item-deda5ba content-position-flex-start content-view-column">
-                                                                            <div class="elementor-section elementor-section-boxed">
-                                                                                <div class="elementor-container elementor-column-gap-extended">
-                                                                                    <div class="elementor-row">
-                                                                                        <div class="elementor-column elementor-col-100">
-                                                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                                                <div class="elementor-widget-wrap">
-                                                                                                    <div class="elementor-element">
-                                                                                                        <div class="slide-content">
-                                                                                                            <div class="slide-content-column">
-                                                                                                                <h1 class="content-slider-item-heading agencium-content-wrapper-1">Real <em>solution</em> for   your <em>business</em>.</h1>
-                                                                                                                <div class="content-slider-item-content agencium-content-wrapper-2"><div class="content-slider-item-text"><p>Mummichog paradise fish! Triggerfish bango guppy opah sunfish bluntnose knifefish upside down catfish cobia spookfish convict.</p></div><div class="content-slider-item-buttons"><a class="agencium-alter-button" href="https://demo.artureanec.com/themes/agencium/services-from-experienced-agency/" target="_blank">Explore more<svg viewBox="0 0 13 20"><polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5"></polyline></svg></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div></div>
+                                                                </div>
+                                                                
+                                                                <div class="owl-nav disabled">
+                                                                    <button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button>
+                                                                    <button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button>
+                                                                </div>
+                                                            </div>
 
-                    <div class="elementor-section elementor-section-boxed"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-100"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element"><div class="slider-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div></div></div></div></div></div></div>                </div>
+                                                            <div class="elementor-section elementor-section-boxed">
+                                                                <div class="elementor-container elementor-column-gap-default">
+                                                                    <div class="elementor-row">
+                                                                        <div class="elementor-column elementor-col-100">
+                                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                                <div class="elementor-widget-wrap">
+                                                                                    <div class="elementor-element">
+                                                                                        <div class="slider-dots">
+                                                                                            <button role="button" class="owl-dot active"><span></span></button>
+                                                                                            <button role="button" class="owl-dot"><span></span></button>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
 
-            </div>
-        </div>
-        		</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-9f88ad0 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="9f88ad0" data-element_type="section">
+				        <section class="elementor-section elementor-top-section elementor-element elementor-element-9f88ad0 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="9f88ad0" data-element_type="section">
+						    <div class="elementor-container elementor-column-gap-default">
+                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-29e853b" data-id="29e853b" data-element_type="column">
+                                    <div class="elementor-widget-wrap">
+
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+
+				    <section class="elementor-section elementor-top-section elementor-element elementor-element-9c172f7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9c172f7" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-29e853b" data-id="29e853b" data-element_type="column">
-			<div class="elementor-widget-wrap">
-							</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-9c172f7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9c172f7" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b62bd70 animated agencium_clip_right" data-id="b62bd70" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;agencium_clip_right&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-5558e04 elementor-widget elementor-widget-agencium_heading" data-id="5558e04" data-element_type="widget" data-widget_type="agencium_heading.default">
-				<div class="elementor-widget-container">
-			<div class="agencium-subtitle"><div class="agencium-subtitle-text"><h5><em>/template pilihan</em></h5></div></div>		</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
+					        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b62bd70 animated agencium_clip_right" data-id="b62bd70" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;agencium_clip_right&quot;}">
+			                    <div class="elementor-widget-wrap elementor-element-populated">
+						            <div class="elementor-element elementor-element-5558e04 elementor-widget elementor-widget-agencium_heading" data-id="5558e04" data-element_type="widget" data-widget_type="agencium_heading.default">
+				                        <div class="elementor-widget-container">
+			                                <div class="agencium-subtitle">
+                                                <div class="agencium-subtitle-text">
+                                                    <h5><em>/template pilihan</em></h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+					    </div>
+            		</section>
+                    
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-2f75ca3 elementor-section-boxed elementor-section-height-default elementor-section-height-default animated agencium_clip_down" data-id="2f75ca3" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;agencium_clip_down&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d672595" data-id="d672595" data-element_type="column">
