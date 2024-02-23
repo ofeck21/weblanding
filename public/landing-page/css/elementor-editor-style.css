@@ -1,0 +1,6 @@
+#elementor-controls .elementor-controls-popover + .elementor-control-type-section {
+    margin-top: 0 !important;
+}
+#elementor-controls .elementor-controls-popover + .elementor-control-type-section .elementor-panel-heading {
+    border: none;
+}

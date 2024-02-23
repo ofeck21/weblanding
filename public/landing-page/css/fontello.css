@@ -1,0 +1,53 @@
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: 'fontello';
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sidebar:before { content: '\e800'; } /* '' */
+.icon-login:before { content: '\e801'; } /* '' */
+.icon-logout:before { content: '\e802'; } /* '' */
+.icon-hide:before { content: '\e803'; } /* '' */
+.icon-star-stroke:before { content: '\e804'; } /* '' */
+.icon-arrow-left:before { content: '\e805'; } /* '' */
+.icon-arrow-right:before { content: '\e806'; } /* '' */
+.icon-arrow-bottom:before { content: '\e807'; } /* '' */
+.icon-arrow-alt-up:before { content: '\e808'; } /* '' */
+.icon-cart:before { content: '\e809'; } /* '' */
+.icon-burger:before { content: '\e80a'; } /* '' */
+.icon-check:before { content: '\e80b'; } /* '' */
+.icon-chevrone-right:before { content: '\e80c'; } /* '' */
+.icon-click:before { content: '\e80d'; } /* '' */
+.icon-code:before { content: '\e80e'; } /* '' */
+.icon-close:before { content: '\e80f'; } /* '' */
+.icon-dev1:before { content: '\e810'; } /* '' */
+.icon-dev2:before { content: '\e811'; } /* '' */
+.icon-dev3:before { content: '\e812'; } /* '' */
+.icon-dev4:before { content: '\e813'; } /* '' */
+.icon-drag-arrow-left:before { content: '\e814'; } /* '' */
+.icon-drag-arrow-right:before { content: '\e815'; } /* '' */
+.icon-infobox:before { content: '\e816'; } /* '' */
+.icon-link-arrow:before { content: '\e817'; } /* '' */
+.icon-link-arrow-alt:before { content: '\e818'; } /* '' */
+.icon-logo-arrow:before { content: '\e819'; } /* '' */
+.icon-logo-arrow-alt:before { content: '\e81a'; } /* '' */
+.icon-menu:before { content: '\e81b'; } /* '' */
+.icon-minus:before { content: '\e81c'; } /* '' */
+.icon-plus:before { content: '\e81d'; } /* '' */
+.icon-pin:before { content: '\e81e'; } /* '' */
+.icon-quote:before { content: '\e81f'; } /* '' */
+.icon-responsive:before { content: '\e820'; } /* '' */
+.icon-rounded-check:before { content: '\e821'; } /* '' */
+.icon-search:before { content: '\e822'; } /* '' */
+.icon-star:before { content: '\e823'; } /* '' */
+.icon-support:before { content: '\e824'; } /* '' */
