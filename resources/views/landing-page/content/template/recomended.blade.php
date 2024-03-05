@@ -18,7 +18,7 @@
                                 srcset="{{asset('templates/theme'.$i.'.png')}} 840w">
                             <source media="(max-width: 1020px)"
                                 sizes="(max-width: 1020px) 1020px"
-                                srcset="https://bikinweb.mrofik.com/wp-content/uploads/2023/06/product-5-300x300.jpg 1020w">
+                                srcset="{{asset('templates/theme'.$i.'.png')}} 1020w">
                             <source media="(max-width: 1200px)"
                                 sizes="(max-width: 1200px) 1200px"
                                 srcset="{{asset('templates/theme'.$i.'.png')}} 1200w">
