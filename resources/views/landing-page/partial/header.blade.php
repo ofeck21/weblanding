@@ -24,15 +24,15 @@
                     <ul id="menu-custom-menu-1" class="main-menu">
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6027 current_page_item menu-item-6048">
-                            <a href="/" aria-current="page">Home</a>
+                            <a href="/" aria-current="page">HOME</a>
                         </li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6080">
-                            <a href="https://bikinweb.mrofik.com/about/">Tentang Kami</a>
+                            <a href="#faq">PERTANYAAN</a>
                         </li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6050">
-                            <a href="https://bikinweb.mrofik.com/contacts/">Kontak</a>
+                            <a href="#tutorial">TUTORIAL</a>
                         </li>
                     </ul>
                 </nav>
