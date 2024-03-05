@@ -1,3 +1,4 @@
+@for ($i = 1 ; $i <= 4; $i++)
 <div class="owl-item cloned" style="width: 453.333px;">
     <div class="portfolio-item-wrapper slider-item with-title-icon post-1341 agencium_portfolio type-agencium_portfolio status-publish has-post-thumbnail hentry agencium_portfolio_category-design">
         <div class="portfolio-item">
@@ -8,22 +9,22 @@
                         <picture>
                             <source media="(max-width: 480px)"
                                 sizes="(max-width: 480px) 480px"
-                                srcset="https://bikinweb.mrofik.com/wp-content/uploads/2023/06/product-5-480x480.jpg 480w">
+                                srcset="{{asset('templates/theme'.$i.'.png')}} 480w">
                             <source media="(max-width: 660px)"
                                 sizes="(max-width: 660px) 660px"
-                                srcset="https://bikinweb.mrofik.com/wp-content/uploads/2023/06/product-5-480x480.jpg 660w">
+                                srcset="{{asset('templates/theme'.$i.'.png')}} 660w">
                             <source media="(max-width: 840px)"
                                 sizes="(max-width: 840px) 840px"
-                                srcset="https://bikinweb.mrofik.com/wp-content/uploads/2023/06/product-5-480x480.jpg 840w">
+                                srcset="{{asset('templates/theme'.$i.'.png')}} 840w">
                             <source media="(max-width: 1020px)"
                                 sizes="(max-width: 1020px) 1020px"
                                 srcset="https://bikinweb.mrofik.com/wp-content/uploads/2023/06/product-5-300x300.jpg 1020w">
                             <source media="(max-width: 1200px)"
                                 sizes="(max-width: 1200px) 1200px"
-                                srcset="https://bikinweb.mrofik.com/wp-content/uploads/2023/06/product-5-480x480.jpg 1200w">
+                                srcset="{{asset('templates/theme'.$i.'.png')}} 1200w">
                             <img decoding="async" alt="product-5"
                                 title="product-5"
-                                src="{{ asset('landing-page/assets/product-5-300x300.jpg') }}"
+                                src="{{asset('templates/theme'.$i.'.png')}}"
                                 class="attachment-medium size-medium wp-post-image">
                         </picture>
                     </div>
@@ -33,7 +34,7 @@
                 <h6 class="post-title">
                     <a href="#demo-url">
                         <span class="portfolio-post-name-wrapper">
-                            <span class="portfolio-post-name" data-name="Honda Website design">Honda Website design</span>
+                            <span class="portfolio-post-name" data-name="Portofolio - {{ $i }}">Portofolio - {{ $i }}</span>
                         </span>
                     </a>
                 </h6>
@@ -49,3 +50,4 @@
         </div>
     </div>
 </div>
+@endfor
