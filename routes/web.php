@@ -15,3 +15,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [\App\Http\Controllers\LandingPageController::class, 'index'])->name("landing-page");
 Route::get('/faq', [\App\Http\Controllers\PageController::class, 'faq'])->name("faq");
+Route::prefix('auth')->middleware('guest')->group(function () {
+    Route::get('admin', [\App\Http\Controllers\Auth\AuthController::class, 'login'])->name('login');
+    Route::post('admin', [\App\Http\Controllers\Auth\AuthController::class, 'loginProcess'])->name('login.process');
+});
+Route::post('logout', [\App\Http\Controllers\Auth\AuthController::class, 'logout'])->middleware('auth')->name('logout');
