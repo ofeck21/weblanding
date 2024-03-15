@@ -36,11 +36,17 @@
         </li><!-- End Profile Page Nav -->
 
         <li class="nav-item">
-            <a class="nav-link collapsed" href="#">
+            <a class="nav-link collapsed" href="#" data-bs-target="#landing-nav" data-bs-toggle="collapse" aria-expanded="false">
                 <i class="bi bi-card-list"></i>
-                <span>Setting</span>
+                <span>Landing Page</span>
+                <i class="bi bi-chevron-down ms-auto"></i>
             </a>
-        </li><!-- End Setting Nav -->
+            <ul id="landing-nav" class="nav-content collapse" data-bs-parent="#sidebar-nav">
+                <li><a href="#"><i class="bi bi-circle"></i> Slider</a></li>
+                <li><a href="#"><i class="bi bi-circle"></i> Menu</a></li>
+                <li><a href="#"><i class="bi bi-circle"></i> Call To Action</a></li>
+            </ul>
+        </li><!-- End Landing Page Nav -->
         <hr>
         <li class="nav-item">
             <a class="nav-link collapsed" href="#" onclick="return document.querySelector('#formLogoutSidebar').submit()">
