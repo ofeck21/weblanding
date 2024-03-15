@@ -20,7 +20,7 @@
         </li><!-- End Template Nav -->
 
         <li class="nav-item">
-            <a class="nav-link collapsed" href="#">
+            <a class="nav-link @if(!request()->routeIs('faqs.*')) collapsed @endif" href="{{route('faqs.index')}}">
                 <i class="bi bi-question-circle"></i>
                 <span>F.A.Q</span>
             </a>
