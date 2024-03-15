@@ -30,9 +30,10 @@
                     <div class="elementor-widget-container">
                         <div class="agencium-subtitle row">
                             <div class="agencium-subtitle-text col-md-10">
-                                <button class="btn bg-warning rounded">Semua</button>
-                                <button class="btn">Kategori 1</button>
-                                <button class="btn">Kategori 2</button>
+                                <a href="?category=all" class="btn bg-warning rounded">Semua</a>
+                                @foreach ($categories as $category)
+                                    <a href="?category={{$category->category_id}}" class="btn rounded">{{$category->category->name}}</a>
+                                @endforeach
                             </div>
                             <div class="col-md-2">
                                 <input type="text" class="form-control bg-dark text-white" placeholder="Cari...">

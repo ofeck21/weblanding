@@ -16,4 +16,9 @@ class Template extends Model
         'thumbnail',
         'is_recommended'
     ];
+
+    public function category(): object
+    {
+        return $this->belongsTo(Category::class);
+    }
 }

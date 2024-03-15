@@ -15,5 +15,7 @@
 @push('pageTitle', 'Dashboard')
 
 @section('content')
-asfkdsl
+<div class="text-center">
+    under construction
+</div>
 @endsection
