@@ -42,7 +42,31 @@
 
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
+    <!-- Modal Confirm Delete -->
+    <div class="modal fade" id="confirmDeleteModal" tabindex="-1" aria-labelledby="confirmDeleteModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form id="formDetele" action="" method="post">
+                    @csrf
+                    @method('delete')
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="confirmDeleteModalLabel">Confirm Delete</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        Are you sure you want to delete this item?
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                        <button type="submit" class="btn btn-danger" id="confirmDelete">Delete</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
     <!-- Vendor JS Files -->
+    <script src="{{asset('admin/vendor/jQuery-3-7-1/jQuery-3-7-1.js')}}"></script>
     <script src="{{asset('admin/vendor/apexcharts/apexcharts.min.js')}}"></script>
     <script src="{{asset('admin/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
     <script src="{{asset('admin/vendor/chart.js/chart.umd.js')}}"></script>
@@ -55,5 +79,13 @@
     <!-- Template Main JS File -->
     <script src="{{asset('admin/js/main.js')}}"></script>
     @stack('js')
+    @yield('script')
+
+    <script>
+        function confirmDelete(id, url) {
+            $('#confirmDeleteModal').modal('show');
+            $('#formDetele').attr('action', url + '/' + id);
+        }
+    </script>
 </body>
 </html>
