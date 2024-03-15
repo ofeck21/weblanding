@@ -65,8 +65,8 @@ class TemplateController extends Controller
 
         try {
             $thumbnail = $request->file('thumbnail');
-            $thumbnailName = time() . '.' . $thumbnail->extension();
-            $thumbnail->move(public_path('themes'), $thumbnailName);
+            $thumbnailName = time() . $thumbnail->getClientOriginalName();
+            $thumbnail->move(public_path('templates'), $thumbnailName);
 
             try {
                 Template::create([

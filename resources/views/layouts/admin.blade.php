@@ -29,6 +29,7 @@
     @include('layouts.partials.sidebar')
     <main id="main" class="main">
         @include('layouts.partials.errors')
+        @include('layouts.partials.message')
         @if(isset($breadcrumbs))
             @include('layouts.partials.breadcrumb')
         @endif
