@@ -7,7 +7,7 @@
 @section('content')
     <div class="row border-top">
         <div class="col" style="margin-top: -50px;">
-            <a class="btn btn-outline-primary float-end"><i class="bi bi-plus"></i> Add Data</a>
+            <a class="btn btn-outline-primary float-end" href="{{route('templates.create')}}"><i class="bi bi-plus"></i> Add Data</a>
         </div>
         @if(count($templates) > 0)
             @include('admin.template.item')

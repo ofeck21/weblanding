@@ -17,6 +17,7 @@ return new class extends Migration
             $table->foreignId('category_id')->references('id')->on('categories');
             $table->string('demo_url');
             $table->string('thumbnail');
+            $table->boolean('is_recommended')->default(false);
             $table->timestamps();
         });
     }
