@@ -25,6 +25,8 @@ class SettingController extends Controller
                 'active'    => true
             ]
         ];
+
+        $data['settings'] = Setting::where('group', 'app')->get();
         return view('admin.setting.app', $data);
     }
 
