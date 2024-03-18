@@ -17,7 +17,7 @@ class UserSeeder extends Seeder
         ], [
             'name' => 'Admin',
             'email' => 'admin@intivestudio.com',
-            'password' => bcrypt('intivestudio')
+            'password' => 'intivestudio'
         ]);
     }
 }

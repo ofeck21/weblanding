@@ -1,6 +1,6 @@
 @extends('landing-page.template')
 
-@section('title', 'Pertanyaan Umum - '.config('app.name')))
+@section('title', 'Pertanyaan Umum - '.config('app.name'))
 
 @section('content')
     <div class="page-title-container-wrapper">

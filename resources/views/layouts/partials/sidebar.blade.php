@@ -29,7 +29,7 @@
         <li class="nav-heading">Settings</li>
 
         <li class="nav-item">
-            <a class="nav-link collapsed" href="#">
+            <a class="nav-link @if(!request()->routeIs('profile')) collapsed @endif" href="{{route('profile')}}">
                 <i class="bi bi-person"></i>
                 <span>Profile</span>
             </a>
@@ -44,9 +44,15 @@
             <ul id="landing-nav" class="nav-content collapse" data-bs-parent="#sidebar-nav">
                 <li><a href="#"><i class="bi bi-circle"></i> Slider</a></li>
                 <li><a href="#"><i class="bi bi-circle"></i> Menu</a></li>
-                <li><a href="#"><i class="bi bi-circle"></i> Call To Action</a></li>
             </ul>
         </li><!-- End Landing Page Nav -->
+
+        <li class="nav-item">
+            <a class="nav-link @if(!request()->routeIs('settings.app.*')) collapsed @endif" href="{{route('settings.app')}}">
+                <i class="bi bi-people"></i>
+                <span>Application</span>
+            </a>
+        </li>
         <hr>
         <li class="nav-item">
             <a class="nav-link collapsed" href="#" onclick="return document.querySelector('#formLogoutSidebar').submit()">
